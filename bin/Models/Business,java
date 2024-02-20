@@ -1,0 +1,9 @@
+
+
+public class Business{
+    private ArrayList<Person> Persons = new ArrayList<Person>();
+
+    private addPerson(Person Person){
+        Person.add(Person);
+    }
+}
